@@ -1,0 +1,210 @@
+@media(max-width:1400px) {
+    .container {
+        max-width: 1200px;
+    }
+}
+
+@media(max-width:1200px) {
+    .container {
+        max-width: 960px;
+    }
+
+    .blockheaderr {
+        width: 450px;
+        height: 350px;
+        padding: 30px;
+        margin: 108px 54px 0 0;
+    }
+
+    .headerbutton {
+        width: 180px;
+        height: 50px;
+    }
+
+    .blockheader {
+        position: absolute;
+        width: 400px;
+        height: 329px;
+        background: #99823D;
+        bottom: 0;
+        right: 0;
+
+    }
+
+    .headerzag {
+        font-size: 60px;
+        line-height: 58px;
+    }
+
+    .headertext2 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .aboutzag {
+        font-size: 44px;
+        line-height: 47px;
+    }
+
+    .about_text {
+        font-size: 14px;
+        line-height: 23px;
+    }
+
+    .numbers {
+        font-size: 44px;
+        line-height: 50px;
+    }
+
+    .projects {
+        font-size: 9px;
+        line-height: 5px;
+    }
+
+    .about {
+        padding: 101px 0 240px;
+    }
+
+    .fa-pencil-ruler {
+        font-size: 50px;
+    }
+
+    .fa-swatchbook {
+        font-size: 50px;
+    }
+
+    .fa-drafting-compass {
+        font-size: 50px;
+    }
+
+    .fa-user-hard-hat {
+        font-size: 50px;
+    }
+
+    .fa-bolt {
+        font-size: 50px;
+    }
+
+    .fa-file-alt {
+        font-size: 50px;
+    }
+
+    .arch_link:last-child {
+        font-size: 23px;
+        line-height: 26px;
+    }
+
+    .arch_card {
+        width: 30%;
+        padding: 15px;
+    }
+
+    .arch_text {
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .arch_block {
+        padding: 0px 30px;
+    }
+}
+
+@media(max-width:960px) {
+    .container {
+        max-width: 720px;
+    }
+
+    .navlgo {
+        height: 90px;
+    }
+
+    .list {
+        row-gap: 13px;
+        flex-wrap: wrap;
+    }
+
+    .link {
+        font-size: 19px;
+        line-height: 21 px;
+    }
+
+    .jscb {
+        flex-wrap: wrap;
+    }
+
+    .nav {
+        height: 136px;
+    }
+
+    .blockheaderr {
+        width: 300px;
+        height: 240px;
+        padding: 20px;
+        margin: 100px 42px 0 0;
+    }
+
+    .headerzag {
+        font-size: 35px;
+        line-height: 33px;
+    }
+
+    .headertext2 {
+        font-size: 9px;
+        line-height: 13px;
+    }
+
+    .headerbutton {
+        width: 123px;
+        height: 38px;
+        font-size: 10px;
+    }
+
+    .blockheader {
+        width: 268px;
+        height: 172px;
+    }
+
+    .listt {
+        display: flex;
+        gap: 5px;
+        margin-left: 7px;
+    }
+
+    .linkk {
+        font-size: 10px;
+        line-height: 68px;
+    }
+
+    .headerblock {
+        padding: 0px 0;
+    }
+
+    .about_content {
+        flex-wrap: wrap;
+    }
+
+    .about_left {
+        width: 90%;
+    }
+
+    .content_list {
+        display: flex;
+        gap: 30px;
+    }
+    footer input {
+        width: 60%;
+    }
+    .footerblock {
+        width: 90%;
+        padding: 36px 0;
+    }
+}
+@media(max-width:720px){
+    .container{
+        max-width: 480px;
+    }
+    .link {
+        font-size: 8px;
+        line-height: 21 px;
+    }
+}
